@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521887776932",
+    "project_id": "haar-af78f",
+    "storage_bucket": "haar-af78f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521887776932:android:c7712c96eeaa8f1840e631",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.HumanAnatomyinAugmentedReality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521887776932-0efug4a9ob0mlj6000bgdfqv07m3qe47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARMWahgtl1uUaM772ud22yxUpb6A_FYic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521887776932-0efug4a9ob0mlj6000bgdfqv07m3qe47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

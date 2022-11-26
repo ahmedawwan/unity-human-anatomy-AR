@@ -1,0 +1,9 @@
+<List>
+  <Mask Id="ListMask">
+    <Panel Id="ListPanel">
+      <Region Id="ScrollContent">
+        <ContentPlaceholder />
+      </Region>
+    </Panel>
+  </Mask>
+</List>

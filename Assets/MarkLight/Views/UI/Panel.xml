@@ -1,0 +1,10 @@
+<Panel>
+  <Mask Id="ScrollbarMask">
+    <ScrollRect Id="ScrollRect">
+      <ContentPlaceholder />
+    </ScrollRect>
+  </Mask>
+
+  <Scrollbar Id="HorizontalScrollbar" Orientation="Horizontal" />
+  <Scrollbar Id="VerticalScrollbar" Orientation="Vertical" />
+</Panel>
